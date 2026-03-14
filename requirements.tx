@@ -4,6 +4,3 @@ playwright==1.48.0
 playwright-stealth==1.0.6
 python3-capsolver==1.2.0
 aiohttp==3.10.5
-python-dotenv==1.0.1
-loguru==0.7.2
-orjson==3.10.7
